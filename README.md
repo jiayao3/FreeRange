@@ -9,6 +9,8 @@ Windows: https://drive.google.com/file/d/1oYe0ZvxdMVBOEJKN5WBTINF2HjUJCbY6/view?
 
 Mac: https://drive.google.com/file/d/1ieb3Vawlop_rBMi6A7FvYFo_6QTTMRlP/view?usp=sharing
 
+WebGL: https://play.unity.com/mg/other/freerange-1
+
 ## Teamwork plan/summary
 
 <!-- [[StartTeamworkPlan]] PLEASE LEAVE THIS LINE UNTOUCHED -->
